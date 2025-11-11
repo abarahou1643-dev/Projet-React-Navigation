@@ -242,6 +242,3 @@ npm start
 **Date :** 2025
 
 
-
-
-** L'application est maintenant opérationnelle avec toutes les fonctionnalités implémentées !**
