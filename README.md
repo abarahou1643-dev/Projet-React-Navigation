@@ -241,7 +241,6 @@ npm start
 **Technologies :** React, React Router, CSS3, JavaScript  
 **Date :** 2024
 
-** [Contactez-moi pour toute question](mailto:aicha.barahou@email.com)**
 
 
 
