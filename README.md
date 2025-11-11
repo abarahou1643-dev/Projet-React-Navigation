@@ -239,7 +239,7 @@ npm start
 **Développé par :** Aicha Barahou  
 **Email :** aicha.barahou@email.com  
 **Technologies :** React, React Router, CSS3, JavaScript  
-**Date :** 2024
+**Date :** 2025
 
 
 
